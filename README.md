@@ -1,5 +1,7 @@
 # Google Maps Lead Pipeline
 
+[![tests](https://github.com/YassinWael/Google-maps-lead-generator/actions/workflows/tests.yml/badge.svg)](https://github.com/YassinWael/Google-maps-lead-generator/actions/workflows/tests.yml)
+
 A small Python pipeline that turns Google Places text searches into normalized,
 deduplicated CSV and JSON datasets. It handles pagination, transient request
 failures, optional website enrichment, and deterministic exports.
